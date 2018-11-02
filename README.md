@@ -1,1 +1,1 @@
-# My attempt at perfroming Data Science
+# My attempt at performing Data Science
